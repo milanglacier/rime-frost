@@ -19,6 +19,7 @@
 评测的代码也是开源的，可复现。
 
 现在推出了windows端独立输入法，可安装[墨奇输入法](https://github.com/gaboolic/moqi-im-windows)，自带白霜拼音作为默认方案。
+以及终端[端砚输入法](https://github.com/milanglacier/duanyan-tui), 同样自带白霜拼音作为默认方案，可运行在 SSH，TTY 等没有系统 GUI 输入法的环境。
 
 ### 使用方法
 
